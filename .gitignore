@@ -1,0 +1,19 @@
+# Test data and local test files
+test/
+testdata/
+text_renamer.ini
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime-generated files
+text_renamer_history.txt
+renamelist_*.txt
